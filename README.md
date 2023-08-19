@@ -1,4 +1,4 @@
-# Traffic
+# Traffic Light Identifier
 
 ## Usage:
 
